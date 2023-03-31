@@ -1,6 +1,6 @@
 Name:		texlive-ekaia
 Version:	49594
-Release:	1
+Release:	2
 Summary:	Article format for publishing the Basque Country Science and Technology Journal "Ekaia"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ekaia
