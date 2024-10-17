@@ -3,7 +3,7 @@ Version:	49594
 Release:	2
 Summary:	Article format for publishing the Basque Country Science and Technology Journal "Ekaia"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ekaia
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ekaia
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ekaia.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ekaia.doc.r%{version}.tar.xz
